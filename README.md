@@ -24,7 +24,7 @@ using namespace std;
 #define  FAST  (ios_base::sync_with_stdio(false), cin.tie(nullptr));        when you need to steadily take in input 
 ll pow(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x)%m;y>>=1;}return ans;}
 
------------   starting with Div 2  (800 - 1000)  Code Forces -----------------------------------------------------------------------------------------------------------------------------------------
+-----------   starting with Div 2  (800 - 1000)  Code Forces -------------------------------------
 
 
 
